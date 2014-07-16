@@ -19,7 +19,7 @@ All wall types support adding a "frame" of solid material around it so it can be
 * SWall() - A wall made from squared-off zig-zags
   * This wall also has a wave-like shape to it, but the reliefs are square-shaped, giving the wall a more squared-off look. This wall is more rigid than the WWall() design, but it is also slightly more prone to warping.
 
-### Heat containment wall (headContainment.scad)
+### Heat containment wall (heatContainment.scad)
 This can be used to generate a "heat containment" wall around a piece in an attempt to keep the part warm during printing. I haven't gotten a chance to evaluate how well it works yet.
 
 ### Holes for screws (screwHoles.scad)
